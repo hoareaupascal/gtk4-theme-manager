@@ -19,6 +19,6 @@ Before using the script, ensure you have the following installed:
 
 fzf
 
-GTK Themes: Themes should be located in ~/.themes/.  
+GTK Themes: Themes should be located in ~/.themes/  
 
 You can easily add your theme folder name in the sctipt's array.
