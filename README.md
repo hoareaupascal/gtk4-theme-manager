@@ -1,7 +1,8 @@
 # gtk4-theme-manager
 A lightweight, terminal-centric bash script to instantly swap GTK-4.0 themes using fzf.
 
-Since GTK4 and Libadwaita ignore traditional theme selectors, this script automates the manual process of symlinking or copying gtk.css, gtk-dark.css, and assets to your ~/.config/gtk-4.0 directory.  
+Since GTK4 and Libadwaita ignore traditional theme selectors, this script automates the manual process of copying gtk.css, gtk-dark.css, and assets to your ~/.config/gtk-4.0 directory.  
+
 ![GTK4 Theme Switcher in Action](assets/gtk4_screen.png)
 
 ✨ Features
